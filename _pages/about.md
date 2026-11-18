@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yusqiao"
+title: "Yiting Lu(陆怡婷)"
 author_profile: false
 redirect_from:
   - /about/
